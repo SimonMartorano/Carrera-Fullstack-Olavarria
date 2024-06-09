@@ -14,6 +14,7 @@ el programa lo debe convertir en:
 */
 
 
+
 import * as rls from 'readline-sync';
 
 let texto:string = rls.question("Ingrese un texto para convertirlo a Camel Case: ");
